@@ -8,6 +8,10 @@ nav-text{
     padding-top: 30px;;
 
 }
+.button-ground input[type=text]{
+    float: right;
+    margin-top: 20px;
+}
 
 header{
     width: 100%;
@@ -65,6 +69,8 @@ h4{font-family: 'Playfair Display', serif;
     padding-top: 20px;
     padding-left: 25px;
 }
+
+
 .col-box-2{
     width:80%;
     height:200px;
@@ -245,9 +251,11 @@ h4{font-family: 'Playfair Display', serif;
 }
 
 .normal{
-    background-color: #2b2b2b00;
+    background-color: #4a8c85;
     color: white;
-    border-color: aqua ;
+    margin: 10px;
+    
+    
 }
 .normal:hover{
     cursor:pointer;
@@ -259,9 +267,15 @@ h4{font-family: 'Playfair Display', serif;
 
 .inverted{
     background-color: #ffffff00;
-    padding-top: 5px !important;
-    
+    border-style: ridge;
+    border-color: #4a8c85;
+    margin: 10px;
    
+}
+.inverted1{
+    background-color: #ffffff00;
+    margin: 10px;
+
 }
 .inverted:hover{
     cursor: pointer;
