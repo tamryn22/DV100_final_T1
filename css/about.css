@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+h3{font-family: 'Anton', sans-serif;
+}
+h1{
+    font-family: 'Beth Ellen', cursive;
+    margin-left: 60px;
+}
+h4{font-family: 'Playfair Display', serif;
+}
+form{
+    width: 30%;
+    margin:0 auto;
+    margin-top: 100px;
+    background-color: #2a2a2a;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 25px;
+    padding-bottom: 40px;
+    color: white;
+}
+form h1{
+    text-align: center;
+}
+form h3{
+    text-align: center;
+}
+.input-el{
+    width: 90%;
+    height: 35px;
+    margin-top: 10px;
+    padding-left: 15px;
+    border: none;
+    border-radius: 20px;
+
+}
+form button{
+    width: 95% !important;
+    background-color: rgb(64, 172, 64);
+    
+}
+.round-image_1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../images/cover1.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.round-image_2{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../images/cover1.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+

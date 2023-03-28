@@ -46,6 +46,7 @@ h4{font-family: 'Playfair Display', serif;
     padding-top: 20px;
     padding-left: 25px;
     margin-left: 100px;
+    margin-right: -50px;
 
 }
 .col-boxB{
@@ -279,5 +280,7 @@ h4{font-family: 'Playfair Display', serif;
     background-color: #2b2b2b;
     color: #ffffff;
 }
+
+
 
 
