@@ -1,3 +1,17 @@
+nav{
+    width:100%;
+    height:80px;
+    background-color: #ffffff00;
+    
+}
+nav-text{
+    padding-top: 30px;;
+
+}
+.button-ground input[type=text]{
+    float: right;
+    margin-top: 20px;
+}
 body{
     background-color: black;
 
@@ -10,17 +24,21 @@ h1{
 }
 h4{font-family: 'Playfair Display', serif;
 }
+.inverted1{
+    background-color: #ffffff00;
+    margin: 10px;
+}
 .thumbnail{
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
     background-image: url("../assets/TheSwordLowCountry.jpeg");
     background-position: center;
     background-size: cover;
 }
 
 .overlay{
-    width: 250px;
-    height: 170px;
+    width: 350px;
+    height: 350px;
     background-color: rgba(0,0,0,0.5);
     padding-top: 80px;
     opacity: 0;
@@ -30,28 +48,22 @@ h4{font-family: 'Playfair Display', serif;
     opacity: 1;
 }
 
-.icon{
-    width: 60px;
-    height: 60px;
-    background-color: crimson;
-    border-radius: 50%;
-    margin: 0 auto;
-}
+
 .content{
-    width: 225px;
-    height: 51px;
-    background-color: crimson;
+    width: 350px;
+    height: 70px;
+    background-color: rgb(203, 115, 77);
     color: white;
     padding-left: 25px;
     padding-top: 9px;
-    margin-top: 50px;
+    margin-top: 150px;
 }
 .content h3, p{
     margin: 0;
 }
 
 .player-line{
-    width: 500px;
+    width: 100%;
     height: 100px;
     margin-top: 100px;
 
@@ -67,25 +79,57 @@ h4{font-family: 'Playfair Display', serif;
 .inner-line{
     width: 50%;
     height: 5px;
-    background-color: crimson;
+    background-color: rgb(203, 115, 77);
+   
 }
 
 .marker{
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background-color: crimson;
+    background-color: rgb(203, 115, 77);
     margin:0 auto;
     margin-top: -12px;
 }
 
-.shadow{
-    width: 300px;
-    height: 100px;
-    margin-top: 25px;
-    background-color: lightgray;
-    border-radius: 5px;
-    box-shadow: 19px 20px 21px 3px rgba(0,0,0,0.14);
-    -webkit-box-shadow: 19px 20px 21px 3px rgba(0,0,0,0.14);
-    -moz-box-shadow: 19px 20px 21px 3px rgba(0,0,0,0.14);   
+.col-box{
+    width:80px;
+    height:80px;
+    background-image: url("../images/Album\ Covers/album7.jpeg");
+    background-size: cover;
+    background-position: center;
+    margin:30px;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+.round-image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../assets/previous_icon.svg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+   
+}
+.round-image2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-image: url("../assets/pause_icon.svg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+    
+    
+}
+.round-image3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../assets/next_icon.svg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+    
 }

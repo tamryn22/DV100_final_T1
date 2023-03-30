@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    color: aliceblue;
 }
 h3{font-family: 'Anton', sans-serif;
 }
@@ -10,7 +11,7 @@ h1{
 h4{font-family: 'Playfair Display', serif;
 }
 form{
-    width: 30%;
+    width: 320px;
     margin:0 auto;
     margin-top: 100px;
     background-color: #2a2a2a;
@@ -37,7 +38,7 @@ form h3{
 }
 form button{
     width: 95% !important;
-    background-color: rgb(64, 172, 64);
+    background-color: rgb(203, 115, 77);
     
 }
 .round-image_1{
