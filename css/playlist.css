@@ -131,5 +131,15 @@ h4{font-family: 'Playfair Display', serif;
     background-size: cover;
     background-position: center;
     margin: 10px;
+   align-items: center;
     
+}
+.playlist-titel{
+    float:left
+
+}
+
+.playlist-names{
+    float:left
+
 }

@@ -39,6 +39,7 @@ form h3{
 form button{
     width: 95% !important;
     background-color: rgb(203, 115, 77);
+    float: left;
     
 }
 .round-image_1{
