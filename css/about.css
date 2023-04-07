@@ -46,16 +46,18 @@ form button{
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-image: url("../images/cover1.jpeg");
+    background-image: url("../assets/Icons/contact/email_icon.svg");
     background-size: cover;
     background-position: center;
+    margin: 10px;
 }
 .round-image_2{
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-image: url("../images/cover1.jpeg");
+    background-image: url("../assets/Icons/contact/phone_icon.svg");
     background-size: cover;
     background-position: center;
+    margin: 10px;
 }
 

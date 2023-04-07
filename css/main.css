@@ -222,7 +222,7 @@ h4{font-family: 'Playfair Display', serif;
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-image: url("../images/cover1.jpeg");
+    background-image: url("../assets/Icons/social/instagram_icon.svg");
     background-size: cover;
     background-position: center;
 }
@@ -230,7 +230,7 @@ h4{font-family: 'Playfair Display', serif;
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-image: url("../images/cover1.jpeg");
+    background-image: url("../assets/Icons/social/twitter_icon.svg");
     background-size: cover;
     background-position: center;
 }
@@ -238,7 +238,7 @@ h4{font-family: 'Playfair Display', serif;
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-image: url("../images/cover1.jpeg");
+    background-image: url("../assets/Icons/social/facebook_icon.svg");
     background-size: cover;
     background-position: center;
 }
@@ -246,7 +246,7 @@ h4{font-family: 'Playfair Display', serif;
     width: 40px;
     height: 40px;
     border-radius: 50%;
-    background-image: url("../images/cover1.jpeg");
+    background-image: url("../assets/Icons/social/youtube_icon.svg");
     background-size: cover;
     background-position: center;
 }
