@@ -247,6 +247,7 @@ h4{font-family: 'Playfair Display', serif;
     background-image: url("../assets/Icons/social/youtube_icon.svg");
     background-size: cover;
     background-position: center;
+   
 }
    
 .text p{
@@ -279,6 +280,15 @@ h4{font-family: 'Playfair Display', serif;
     
     
 }
+.normal-1{
+    background-image: url("../assets/Icons/other/left_arrow_icon.svg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    margin: 10px;
+    padding: 20px;
+    
+}
 .normal:hover{
     cursor:pointer;
     background-color: white;
@@ -292,6 +302,17 @@ h4{font-family: 'Playfair Display', serif;
     border-style: ridge;
     border-color: #4a8c85;
     margin: 10px;
+   
+}
+.inverted-4{
+    background-image: url("../assets/Icons/other/right_arrow_icon.svg");
+    border-style: ridge;
+    border-color: #4a8c85;
+    margin: 20px;
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+   
    
 }
 .inverted1{

@@ -60,4 +60,39 @@ form button{
     background-position: center;
     margin: 10px;
 }
-
+.round-image3{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../assets/Icons/social/facebook_icon.svg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+}
+.round-image4{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../assets/Icons/social/instagram_icon.svg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+}
+.round-image5{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../assets/Icons/social/twitter_icon.svg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+}
+.round-image6{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-image: url("../assets/Icons/social/youtube_icon.svg");
+    background-size: cover;
+    background-position: center;
+    margin: 10px;
+}
